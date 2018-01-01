@@ -1,0 +1,86 @@
+[
+  {
+    "product-type": "hoodie",
+    "options": {
+      "colour": "dark",
+      "size": "small"
+    },
+    "artist-markup": 30,
+    "quantity": 1
+  },
+  {
+    "product-type": "hoodie",
+    "options": {
+      "colour": "white",
+      "size": "large"
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  },
+  {
+    "product-type": "hoodie",
+    "options": {
+      "colour": "dark",
+      "size": "large"
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  },
+  {
+    "product-type": "hoodie",
+    "options": {
+      "colour": "white",
+      "size": "xl"
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  },
+  {
+    "product-type": "hoodie",
+    "options": {
+      "colour": "dark",
+      "size": "xl"
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  },
+  {
+  	"product-type": "sticker",
+  	"options": {
+  		"size": "small"
+  	},
+  	"artist-markup": 30,
+  	"quantity": 1
+  },
+  {
+    "product-type": "sticker",
+    "options": {
+      "size": "medium"
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  },
+  {
+  	"product-type": "sticker",
+  	"options": {
+  		"size": "large"
+  	},
+  	"artist-markup": 20,
+  	"quantity": 1
+  },
+  {
+    "product-type": "sticker",
+    "options": {
+      "size": "xl"
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  },
+  {
+    "product-type": "leggings",
+    "options": {
+    },
+    "artist-markup": 20,
+    "quantity": 1
+  }
+]
